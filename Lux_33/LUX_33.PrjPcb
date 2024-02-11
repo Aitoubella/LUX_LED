@@ -25,14 +25,12 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
 AutoCrossReferences=0
-NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -49,40 +47,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=LUXCON 1_24B_Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XMDDYASM
-
-[Document2]
-DocumentPath=PcbLib1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YYTKOGQM
-
-[Document3]
 DocumentPath=LUX_36.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,314 +63,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRAMNYGR
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for LUXCON 1_24B\Design Rule Check - LUX_35.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for LUX_33\LUX_33B.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for LUX_33\LUX_33B.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for LUX_33\LUX_33B.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for LUX_33\LUX_33B.REP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for LUX_33\LUX_33B.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for LUX_33\LUX_33B.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for LUX_33\LUX_35.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.REP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for LUXCON 1_24B\LUX_35.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for LUX_33\LUX_36.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for LUX_33\LUX_36.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for LUX_33\LUX_36.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for LUX_33\LUX_36.REP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for LUX_33\LUX_36.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for LUX_33\LUX_36.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=LUXCON 1_24B.LOG
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM23
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.REP
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Project Outputs for LUXCON 1_24B\LuxConvergence_1_24.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -420,7 +76,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -522,22 +178,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -610,23 +256,11 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -648,7 +282,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -728,7 +362,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -773,17 +407,11 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -891,7 +519,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -935,7 +563,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -992,16 +620,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1129,7 +752,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1321,13 +943,12 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
